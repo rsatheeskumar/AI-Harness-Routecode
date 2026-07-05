@@ -1,0 +1,6 @@
+{
+  "name": "RouteCode",
+  "description": "Personalized AI coding harness that selects the best agent type, coding skill, and AI model under token and cost budgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
